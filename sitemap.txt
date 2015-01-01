@@ -1,9 +1,8 @@
  
-http://carlboettiger.info/software/EML.html  
-http://carlboettiger.info/sitemap.txt 
+http://www.carlboettiger.info/2009/sitemap.txt 
 
  
-http://carlboettiger.info/08/25/stochastic-methods.html  
-http://carlboettiger.info/08/25/drift-effects.html  
-http://carlboettiger.info/08/25/diffusion-solution.html  
-http://carlboettiger.info/07/28/branching-times.html 
+http://www.carlboettiger.info/2009/08/25/stochastic-methods.html  
+http://www.carlboettiger.info/2009/08/25/drift-effects.html  
+http://www.carlboettiger.info/2009/08/25/diffusion-solution.html  
+http://www.carlboettiger.info/2009/07/28/branching-times.html 
