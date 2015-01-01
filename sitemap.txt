@@ -1,8 +1,9 @@
----
-title : Sitemap
----
-{% for page in site.pages %} 
-http://carlboettiger.info{{ page.url }} {% endfor %}
+ 
+http://carlboettiger.info/software/EML.html  
+http://carlboettiger.info/sitemap.txt 
 
-{% for post in site.posts %} 
-http://carlboettiger.info{{ post.url }} {% endfor %}
+ 
+http://carlboettiger.info/08/25/stochastic-methods.html  
+http://carlboettiger.info/08/25/drift-effects.html  
+http://carlboettiger.info/08/25/diffusion-solution.html  
+http://carlboettiger.info/07/28/branching-times.html 
