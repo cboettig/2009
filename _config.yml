@@ -11,8 +11,10 @@ author:
   email: cboettig@gmail.com
 url: http://www.carlboettiger.info
 
+baseurl: http://www.carlboettiger.info/2009
+
 username: cboettig
-repo: labnotebook
+repo: 2009 
 
 gems:
   - jekyll-pandoc
