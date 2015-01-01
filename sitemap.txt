@@ -1,5 +1,8 @@
  
-http://www.carlboettiger.info/2009/sitemap.txt 
+http://www.carlboettiger.info/2009/archive.html  
+http://www.carlboettiger.info/2009/categories.html  
+http://www.carlboettiger.info/2009/sitemap.txt  
+http://www.carlboettiger.info/2009/tags.html 
 
  
 http://www.carlboettiger.info/2009/08/25/stochastic-methods.html  
